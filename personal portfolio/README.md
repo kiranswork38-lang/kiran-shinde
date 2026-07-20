@@ -1,6 +1,6 @@
-# Akash Gaikwad — Portfolio
+# Kiiran Shinde — Portfolio
 
-This is a minimal, responsive static portfolio template for Akash Gaikwad.
+This is a minimal, responsive static portfolio template for Kiran Shinde.
 
 How to use
 
